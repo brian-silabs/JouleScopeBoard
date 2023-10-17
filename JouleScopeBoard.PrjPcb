@@ -116,8 +116,97 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJCLWUYL
 
+[Document5]
+DocumentPath=JSB_Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for JouleScopeBoard\BOM\Bill of Materials-JouleScopeBoard.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for JouleScopeBoard\Design Rule Check - JSB_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for JouleScopeBoard\NC Drill\JSB_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for JouleScopeBoard\NC Drill\JSB_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for JouleScopeBoard\Gerber\JSB_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\ExportSTEP\JSB_PCB.step
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for JouleScopeBoard\ExportSTEP\JSB_PCB.step
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for JouleScopeBoard\NC Drill\JSB_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for JouleScopeBoard\Pick Place\Pick Place for JSB_PCB.txt
 DItemRevisionGUID=
 
 [Configuration1]
