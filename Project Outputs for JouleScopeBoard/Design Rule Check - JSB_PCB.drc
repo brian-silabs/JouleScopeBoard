@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Temp\Work\Design\JouleScopeBoard\JSB_PCB.PcbDoc
-Date     : 16/10/2023
-Time     : 17:53:47
+Date     : 17/10/2023
+Time     : 12:31:07
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -22,11 +22,7 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J1-1(24mm,14.5mm) on Multi-Layer Actual Hole Size = 4.35mm
-   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J2-1(41.5mm,14.5mm) on Multi-Layer Actual Hole Size = 4.35mm
-   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J3-1(60.5mm,14.5mm) on Multi-Layer Actual Hole Size = 4.35mm
-   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J4-1(79.5mm,14.5mm) on Multi-Layer Actual Hole Size = 4.35mm
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -46,7 +42,14 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J1-1(22.3mm,12.1mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 17/10/2023 12:28:37Banana Header Holes diam is 4.35mm
+   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J2-1(39.8mm,12.1mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 17/10/2023 12:28:37Banana Header Holes diam is 4.35mm
+   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J3-1(60.7mm,11.7mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 17/10/2023 12:28:37Banana Header Holes diam is 4.35mm
+   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J4-1(77.8mm,12.1mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 17/10/2023 12:28:37Banana Header Holes diam is 4.35mm
+Waived Violations :4
 
-Violations Detected : 4
-Waived Violations : 0
-Time Elapsed        : 00:00:02
+
+Violations Detected : 0
+Waived Violations : 4
+Time Elapsed        : 00:00:01
