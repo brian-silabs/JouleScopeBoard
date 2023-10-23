@@ -4,18 +4,20 @@ C:\Temp\Work\Design\JouleScopeBoard\Project Outputs for JouleScopeBoard\Pick Pla
 ========================================================================================================================
 File Design Information:
 
-Date:       17/10/23
-Time:       14:33
-Revision:   75497c61ae342b4b26b81db68f71006e3e97439e
+Date:       23/10/23
+Time:       15:17
+Revision:   2f8759feec64ebea67bed1884ba1db16fe79daaa
 Variant:    No variations
 Units used: mil
 
 Designator Comment        Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description             
-H1         "10pin Header" TopLayer    20021121  374.016       515.748       180      "10 Pin Mini Header"    
-J3         I+             BottomLayer 654       2389.764      460.630       180      "CONN BANANA PLUG THRD" 
-GND        "Black TP"     TopLayer    5191TR    3462.598      232.283       0        "BLACK SMD Test Point"  
-VDD        "Red TP"       TopLayer    5190TR    3702.756      232.284       0        "RED SMD Test Point"    
-J4         I-             BottomLayer 654       3062.992      476.378       180      "CONN BANANA PLUG THRD" 
-J2         V+             BottomLayer 654       1566.929      476.378       180      "CONN BANANA PLUG THRD" 
-J1         V-             BottomLayer 654       877.953       476.378       180      "CONN BANANA PLUG THRD" 
-H2         "10pin Header" TopLayer    20021121  3578.740      500.000       180      "10 Pin Mini Header"    
+TP4        "Black TP"     TopLayer    5191TR    314.961       196.850       0        "BLACK SMD Test Point"  
+TP3        "Red TP"       TopLayer    5190TR    472.441       196.850       0        "RED SMD Test Point"    
+H1         "10pin Header" TopLayer    20021121  222.441       486.221       180      "10 Pin Mini Header"    
+J3         I+             BottomLayer 654       2263.780      486.221       180      "CONN BANANA PLUG THRD" 
+TP2        "Black TP"     TopLayer    5191TR    3307.087      196.850       0        "BLACK SMD Test Point"  
+TP1        "Red TP"       TopLayer    5190TR    3464.567      196.850       0        "RED SMD Test Point"    
+J4         I-             BottomLayer 654       3051.181      486.221       180      "CONN BANANA PLUG THRD" 
+J2         V+             BottomLayer 654       1437.008      486.221       180      "CONN BANANA PLUG THRD" 
+J1         V-             BottomLayer 654       649.606       486.221       180      "CONN BANANA PLUG THRD" 
+H2         "10pin Header" TopLayer    20021121  3517.716      486.221       180      "10 Pin Mini Header"    

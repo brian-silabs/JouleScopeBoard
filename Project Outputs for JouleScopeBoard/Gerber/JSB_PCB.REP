@@ -2,15 +2,18 @@
 FileName = JSB_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : JSB_PCB.GBO
+Generating : Bottom Layer
+      File : JSB_PCB.GBL
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D13
+    D15
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -25,8 +28,57 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : JSB_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : JSB_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : JSB_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
     D15
     D16
+    D17
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -44,17 +96,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : JSB_PCB.GTO
+Generating : Bottom Overlay
+      File : JSB_PCB.GBO
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
     D14
 *************************************************************
 
@@ -70,56 +119,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D17
     D18
     D19
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : JSB_PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : JSB_PCB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
     D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : JSB_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
 *************************************************************
 
 *************************************************************
