@@ -5,8 +5,8 @@ C:\Temp\Work\Design\JouleScopeBoard\Project Outputs for JouleScopeBoard\Pick Pla
 File Design Information:
 
 Date:       23/10/23
-Time:       15:55
-Revision:   2f8759feec64ebea67bed1884ba1db16fe79daaa
+Time:       18:22
+Revision:   43b157b380e14d1568659c13b2b24db5d5f97c5f
 Variant:    No variations
 Units used: mil
 
@@ -15,8 +15,8 @@ TP4        "Black TP"     TopLayer    5191TR    314.961       196.850       0   
 TP3        "Red TP"       TopLayer    5190TR    472.441       196.850       0        "RED SMD Test Point"    
 H1         "10pin Header" TopLayer    20021121  222.441       486.221       180      "10 Pin Mini Header"    
 J3         I+             BottomLayer 654       2263.780      486.221       180      "CONN BANANA PLUG THRD" 
-TP2        "Black TP"     TopLayer    5191TR    3307.087      196.850       0        "BLACK SMD Test Point"  
-TP1        "Red TP"       TopLayer    5190TR    3464.567      196.850       0        "RED SMD Test Point"    
+TP2        "Black TP"     TopLayer    5191TR    3267.716      196.850       0        "BLACK SMD Test Point"  
+TP1        "Red TP"       TopLayer    5190TR    3425.197      196.850       0        "RED SMD Test Point"    
 J4         I-             BottomLayer 654       3051.181      486.221       180      "CONN BANANA PLUG THRD" 
 J2         V+             BottomLayer 654       1437.008      486.221       180      "CONN BANANA PLUG THRD" 
 J1         V-             BottomLayer 654       649.606       486.221       180      "CONN BANANA PLUG THRD" 
