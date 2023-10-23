@@ -5,7 +5,7 @@ C:\Temp\Work\Design\JouleScopeBoard\Project Outputs for JouleScopeBoard\Pick Pla
 File Design Information:
 
 Date:       23/10/23
-Time:       15:17
+Time:       15:55
 Revision:   2f8759feec64ebea67bed1884ba1db16fe79daaa
 Variant:    No variations
 Units used: mil

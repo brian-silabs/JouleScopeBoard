@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Temp\Work\Design\JouleScopeBoard\JSB_PCB.PcbDoc
 Date     : 23/10/2023
-Time     : 15:13:39
+Time     : 15:47:21
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -52,4 +52,4 @@ Waived Violations :4
 
 Violations Detected : 0
 Waived Violations : 4
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
