@@ -4,9 +4,9 @@ C:\Temp\Work\Design\JouleScopeBoard\Project Outputs for JouleScopeBoard\Pick Pla
 ========================================================================================================================
 File Design Information:
 
-Date:       23/10/23
-Time:       18:40
-Revision:   70b06e0f97fffa2506f16d9e84adf76d1c694508
+Date:       20/11/23
+Time:       14:17
+Revision:   aea4be186fcb05465d3f0163a8e3d6c8c3cf6271
 Variant:    No variations
 Units used: mil
 
@@ -14,10 +14,10 @@ Designator Comment        Layer       Footprint Center-X(mil) Center-Y(mil) Rota
 TP4        "Black TP"     TopLayer    5191TR    314.961       196.850       0        "BLACK SMD Test Point"  
 TP3        "Red TP"       TopLayer    5190TR    472.441       196.850       0        "RED SMD Test Point"    
 H1         "10pin Header" TopLayer    20021121  222.441       486.221       180      "10 Pin Mini Header"    
-J3         I+             BottomLayer 654       2263.780      486.221       180      "CONN BANANA PLUG THRD" 
+J3         I+             BottomLayer 654       2244.095      486.221       180      "CONN BANANA PLUG THRD" 
 TP2        "Black TP"     TopLayer    5191TR    3267.716      196.850       0        "BLACK SMD Test Point"  
 TP1        "Red TP"       TopLayer    5190TR    3425.197      196.850       0        "RED SMD Test Point"    
-J4         I-             BottomLayer 654       3051.181      486.221       180      "CONN BANANA PLUG THRD" 
-J2         V+             BottomLayer 654       1437.008      486.221       180      "CONN BANANA PLUG THRD" 
-J1         V-             BottomLayer 654       649.606       486.221       180      "CONN BANANA PLUG THRD" 
+J4         I-             BottomLayer 654       2992.126      486.221       180      "CONN BANANA PLUG THRD" 
+J2         V+             BottomLayer 654       1496.063      486.221       180      "CONN BANANA PLUG THRD" 
+J1         V-             BottomLayer 654       748.032       486.221       180      "CONN BANANA PLUG THRD" 
 H2         "10pin Header" TopLayer    20021121  3517.716      486.221       180      "10 Pin Mini Header"    

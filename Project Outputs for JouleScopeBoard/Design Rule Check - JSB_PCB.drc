@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Temp\Work\Design\JouleScopeBoard\JSB_PCB.PcbDoc
-Date     : 23/10/2023
-Time     : 18:21:41
+Date     : 20/11/2023
+Time     : 14:15:43
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -22,7 +22,11 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-Rule Violations :0
+   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J1-1(19mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mm
+   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J2-1(38mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mm
+   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J3-1(57mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mm
+   Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J4-1(76mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mm
+Rule Violations :4
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -31,9 +35,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (34.2mm,8.1mm) on Bottom Overlay And Pad J2-1(36.5mm,12.35mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (38.9mm,8.1mm) on Bottom Overlay And Pad J2-1(36.5mm,12.35mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
@@ -44,14 +46,7 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J1-1(16.5mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 23/10/2023 15:13:10Hole size for banana connector
-   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J2-1(36.5mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 23/10/2023 15:13:28Hole size for banana connector
-   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J3-1(57.5mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 23/10/2023 15:13:28Hole size for banana connector
-   Waived Violation between Hole Size Constraint: (4.35mm > 2.54mm) Pad J4-1(77.5mm,12.35mm) on Multi-Layer Actual Hole Size = 4.35mmWaived by Brian Rodrigues at 23/10/2023 15:13:28Hole size for banana connector
-Waived Violations :4
 
-
-Violations Detected : 2
-Waived Violations : 4
-Time Elapsed        : 00:00:01
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:02

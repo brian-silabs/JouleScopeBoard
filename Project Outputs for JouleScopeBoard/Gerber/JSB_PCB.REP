@@ -2,8 +2,10 @@
 FileName = JSB_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : JSB_PCB.GBL
+Generating : Bottom Paste
+      File : JSB_PCB.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -11,9 +13,6 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D20
-    D21
-    D22
 *************************************************************
 
 *************************************************************
@@ -33,6 +32,50 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : JSB_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : JSB_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : JSB_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : JSB_PCB.GTO
 
@@ -48,10 +91,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : JSB_PCB.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : JSB_PCB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -59,7 +100,9 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D19
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -78,49 +121,6 @@ Used DCodes :
     D20
     D21
     D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : JSB_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : JSB_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : JSB_PCB.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
 *************************************************************
 
 *************************************************************
